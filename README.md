@@ -7,7 +7,8 @@ Compressed sensing offers significant advantages over traditional Direction-of-A
 
 ## Scripts' Description 
  - Sparsity
-   spasity.mlx showcases the concept of data sparsity. A double-tone signal is sparse in frequency domain which makes it a good candidate for compressed sensing. 
+   <code style="color : Aqua">spasity.mlx</code>
+spasity.mlx showcases the concept of data sparsity. A double-tone signal is sparse in frequency domain which makes it a good candidate for compressed sensing. 
    
  - Recovery Algorithms
    cs_omp.mlx demonstrates how Orthogonal Matching Prsuit(OMP) finding an approximation of a signal using a dictionary.
