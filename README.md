@@ -1,5 +1,5 @@
 # Efficient-Array-Signal-Processing-with-Compressed-Sensing
-Scripts for the technical blog "Efficient Array Signal Processing with Compressed Sensing".
+Scripts for the technical blog [Efficient Array Signal Processing with Compressed Sensing](https://www.cesimulations.com/blog/signal-processing-with-compressed-sensing/).
 
 ## Technical Blog Summary
 This technical artical delves into the concept of compressed sensing and its applications in array signal processing, demonstrating its effectiveness through MATLAB implementations.
