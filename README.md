@@ -11,7 +11,7 @@ Compressed sensing offers significant advantages over traditional Direction-of-A
  - <code style="color : Aqua">cs_omp.mlx</code> demonstrates how Orthogonal Matching Prsuit(OMP) finding an approximation of a signal using a dictionary.
    
    
- - <code style="color : Aqua">oa_cs.mlx</code> d demonstrates building and reconstructing sparse arrays and how compressed sensing can be and efficient useful to estimate direction of arrival using these arrays.
+ - <code style="color : Aqua">oa_cs.mlx</code> demonstrates building and reconstructing sparse arrays and how compressed sensing can be and efficient useful to estimate direction of arrival using these arrays.
 
 ## Prerequisities
 - MATLAB
